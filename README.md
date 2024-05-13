@@ -6,6 +6,4 @@
 
 3> Customer Churn Prediction
 
-4> Stroke Detection
-
 
